@@ -1,0 +1,22 @@
+{
+  "name": "proj_01_spec",
+  "version": "0.1.0",
+  "summary": "A short description of proj_01_spec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fanguohuiruan/proj_01_spec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fanguohuiruan": "jack.fan@heavengifs.com"
+  },
+  "source": {
+    "git": "https://github.com/fanguohuiruan/proj_01_spec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "proj_01_spec/Classes/**/*"
+}

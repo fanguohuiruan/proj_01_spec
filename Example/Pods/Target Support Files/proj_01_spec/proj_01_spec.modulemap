@@ -1,0 +1,6 @@
+framework module proj_01_spec {
+  umbrella header "proj_01_spec-umbrella.h"
+
+  export *
+  module * { export * }
+}
